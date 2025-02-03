@@ -1,0 +1,29 @@
+# Environment and virtual environment
+venv/
+.env
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+*.csv
+*.json
+*.db
+
+# API credentials
+config.ini
+secrets.yaml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
